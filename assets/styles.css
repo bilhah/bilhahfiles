@@ -1,0 +1,140 @@
+body {
+  background: url("/assets/PortSiteBg.png") 0% / cover repeat, var(--bs-secondary);
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+.landing {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+/*---Texts----*/
+h1,
+h2 {
+  font-family: "Patrick Hand", serif;
+  font-weight: 900;
+  letter-spacing: 4px;
+  text-wrap: nowrap;
+}
+
+h1 {
+  text-transform: uppercase;
+  font-size: calc(2rem + 4vw);
+}
+
+h5 {
+  font-family: Gruppo, sans-serif;
+  letter-spacing: 1px;
+}
+
+@media (min-width: 992px) {
+  h5 {
+    text-wrap: nowrap;
+  }
+}
+
+p {
+  font-family: Gruppo, sans-serif;
+}
+a {
+  font-family: Gruppo, sans-serif;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+a:hover {
+  --bs-link-color-rgb: var(--bs-link-hover-color-rgb);
+}
+/*--------------*/
+/*---Nav---*/
+.navbar-brand {
+  opacity: 0;
+}
+.nav2 {
+  opacity: 1;
+}
+@media (min-width: 768px) {
+  .nav2 {
+    opacity: 0;
+  }
+}
+
+@media (min-width: 768px) {
+  .nav1 {
+    opacity: 1;
+  }
+}
+/*--------------*/
+.fab {
+  font-size: 2.5rem;
+  padding: 0.8rem;
+}
+
+.btn {
+  color: var(--bs-secondary);
+  font-family: "Patrick Hand", serif;
+  font-size: 1.1rem;
+  font-weight: bold;
+  letter-spacing: 2px;
+  text-wrap: nowrap;
+}
+/*Left Column*/
+.colLeft {
+  min-height: 75vh;
+  margin: 0;
+  padding: 0;
+}
+/*--------------*/
+/*Right Column*/
+.colRight {
+  padding: 5vh 5vw;
+}
+.bitmoji {
+  width: 55vw;
+  border-bottom: 2px solid var(--bs-primary);
+}
+
+@media (min-width: 768px) {
+  .bitmoji {
+    max-height: 90vh;
+    width: calc(90vh * (50 / 90));
+  }
+}
+
+@media (min-width: 768px) {
+  .colRight {
+    height: 100vh;
+    margin-left: -5vw;
+  }
+}
+/*--------------*/
+/*Middle Column*/
+.colMiddle {
+  padding: 0 8%;
+  min-height: 75vh;
+}
+
+@media (min-width: 768px) {
+  .colMiddle {
+    padding: 0;
+    margin: 0 0 5vh 5vw;
+  }
+}
+@media (max-width: 768px) {
+  #divHook {
+    padding: 5vh 0;
+  }
+}
+.hookH1 {
+  margin-top: -1.3rem;
+  margin-left: 110px;
+}
+@media (min-width: 768px) {
+  .hookH1 {
+    margin-top: -2.5rem;
+    margin-left: 165px;
+  }
+}
+
+/*--------------*/
