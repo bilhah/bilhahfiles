@@ -1,0 +1,6 @@
+/*
+  Access-Control-Allow-Origin: *
+
+/*.svg  
+  Content-Type: image/svg+xml  
+
