@@ -1,0 +1,62 @@
+{
+    "BI": {
+        "info": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat",
+        "cities": "Bujumbura, "
+    },
+    "CD": {
+        "info": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat",
+        "cities": "Kinshasa "
+    },
+    "DJ": {
+        "info": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat",
+        "cities": "Djibouti"
+    },
+    "ER": {
+        "info": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat",
+        "cities": "Lorem ipsum"
+    },
+    "ET": {
+        "info": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat",
+        "cities": "Addis Ababa "
+    },
+    "KE": {
+        "info": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat",
+        "cities": "Mombasa, Kitale, Kisumu, Nakuru"
+    },
+    "MW": {
+        "info": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat",
+        "cities": "Lorem ipsum"
+    },
+    "RW": {
+        "info": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat",
+        "cities": "Kigali, Lorem Ipsum"
+    },
+    "SD": {
+        "info": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat",
+        "cities": "Lorem Ipsum, Sit amet "
+    },
+    "SO": {
+        "info": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat",
+        "cities": "Mogadishu"
+    },
+    "SS": {
+        "info": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat",
+        "cities": "Juba, Lorem "
+    },
+    "TZ": {
+        "info": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat ",
+        "cities": "Dodoma, Arusha, Zanzibar, Dar es Salam"
+    },
+    "UG": {
+        "info": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat",
+        "cities": "Lorem ipsum"
+    },
+    "ZA": {
+        "info": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat",
+        "cities": "Lorem ipsum"
+    },
+    "ZM": {
+        "info": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat",
+        "cities": "Lorem ipsum"
+    }
+}
