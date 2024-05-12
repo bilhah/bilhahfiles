@@ -1,0 +1,238 @@
+#offcanvasNav .nav-item {
+  font-size: 1.6rem;
+}
+
+.navbarToggler:hover {
+  opacity: 0.6;
+}
+
+.navbar {
+  margin: 2vh 5vw;
+}
+
+.navbarToggler {
+  color: #f2f2f2;
+  background: var(--bs-primary);
+  padding: 0.8rem;
+  box-shadow: 2px 4px 10px rgba(0,0,0,0.5);
+  border: none;
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+  color: #f58220;
+}
+
+.dropdown-menu .nav-item .nav-link {
+  font-size: 1.1rem;
+}
+
+#logo {
+  width: clamp(12rem, 25vw, 20rem);
+}
+
+#offcanvasNav {
+  width: clamp(340px, 35vw, 500px);
+  padding: 4vh 5vw 2vh 3vw;
+  background: var(--bs-tertiary-bg);
+}
+
+.offcanvas-header .btn-close {
+  padding: 0.8em;
+  background-color: #F58220;
+  border-radius: 50%;
+  opacity: 1;
+  font-size: 20px;
+  box-shadow: 2px 4px 10px rgba(0,0,0,0.5);
+}
+
+.offcanvas-header .btn-close:hover {
+  opacity: 0.6;
+}
+
+.servicesCol {
+  height: 50vh;
+  padding-bottom: 10vh;
+}
+
+@media (min-width: 992px) {
+  .servicesCol {
+    height: 100vh;
+    padding-bottom: 10vh;
+  }
+}
+
+.servicesCol h1 {
+  color: var(--bs-primary);
+  font-size: calc(2em + 2vw);
+  font-weight: bold;
+}
+
+h4 {
+  font-weight: 900;
+  font-size: 1rem;
+  text-transform: uppercase;
+  margin-bottom: 4px;
+  color: #000;
+}
+
+#fixedSevicesDiv {
+  position: fixed;
+  right: 0;
+  bottom: 10vh;
+  height: 130px;
+  width: calc(225px + 5vw);
+  background: rgb(242,242,242);
+  padding: 10px 25px 0;
+}
+
+.scrollRight {
+  position: fixed;
+  right: 5vw;
+  bottom: 4vh;
+  width: 250px;
+}
+
+.servicesInfo {
+  width: 200px;
+  height: 90px;
+  z-index: 10;
+}
+
+.socialsIcons:hover {
+  color: var(--bs-primary);
+}
+
+.socialsIcons {
+  margin-right: 2vw;
+  color: var(--bs-link-color);
+  font-size: 25px;
+}
+
+.servicesInfo p {
+  margin-bottom: 0;
+  padding-right: 0px;
+  margin-right: -2vw;
+  font-size: 0.75rem;
+}
+
+.scrollRight p {
+  color: var(--bs-body-bg);
+  margin-bottom: -10px;
+  font-size: 1rem;
+  letter-spacing: 5px;
+}
+
+.scrollRightIcon {
+  stroke: #f2f2f2;
+}
+
+#paginator {
+  background: var(--bs-secondary);
+  display: inline-block;
+  border-radius: 50%;
+  padding: 5px 7px;
+  margin-right: 10px;
+}
+
+.paginator p {
+  color: var(--bs-body-bg);
+  font-size: 0.7rem;
+  margin: 0;
+}
+
+#fixedSevicesDiv h6 {
+  color: var(--bs-primary);
+  font-weight: bold;
+  font-size: 1rem;
+  margin-bottom: 0;
+}
+
+#footer {
+  min-height: 100vh;
+  width: 100vw;
+}
+
+.containers {
+  width: 90vw;
+  height: 100vh;
+}
+
+section {
+  height: 100vh;
+  width: 100vw;
+}
+
+footer .nav-link {
+  text-transform: uppercase;
+  color: #333333;
+  padding-left: 0;
+}
+
+footer h4 {
+  color: var(--bs-primary);
+  margin: 20px 0;
+}
+
+p {
+  margin-bottom: 0;
+}
+
+.navBottom a {
+  color: #f2f2f2;
+}
+
+footer .nav-item {
+  --bs-nav-link-padding-y: 0.2rem;
+}
+
+.footerColLeft img {
+  height: 30px;
+  margin-left: 20px;
+}
+
+@media (min-width: 768px) {
+  .darkFooterCol img {
+    max-height: 2.7vw;
+  }
+}
+
+.darkFooterCol {
+  background: var(--bs-secondary);
+  padding: 2vh 10vw 0;
+  min-height: 200px;
+}
+
+@media (min-width: 992px) {
+  .darkFooterCol {
+    background: var(--bs-secondary);
+    padding: 2vh 2vw 0 5vw;
+    min-height: 200px;
+  }
+}
+
+.footerColLeft div {
+  margin: 2vh 0;
+}
+
+@media (min-width: 992px) {
+  .footerCol2 {
+    margin-left: 6vw;
+  }
+}
+
+.credits p {
+  color: #999999;
+  font-size: 0.5rem;
+  display: inline;
+}
+
+footer p {
+  font-size: 0.9rem;
+}
+
+@media (max-width: 992px) {
+  .clientsBox img {
+    height: 7vw;
+  }
+}
+
