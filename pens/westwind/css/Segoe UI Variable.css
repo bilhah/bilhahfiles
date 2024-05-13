@@ -1,7 +1,7 @@
 @font-face {
 	font-family: 'Segoe UI Variable';
-	src: url(../../assets/fonts/Segoe%20UI%20Variable-32518eece8dfa3a87e0133b5a6655b71.woff2) format('woff2'),
-	url(../../assets/fonts/Segoe%20UI%20Variable-1897e9bc0abb5314bb0ff7be022d3e14.woff) format('woff');
+	src: url(/assets/fonts/Segoe%20UI%20Variable-32518eece8dfa3a87e0133b5a6655b71.woff2) format('woff2'),
+	url(/assets/fonts/Segoe%20UI%20Variable-1897e9bc0abb5314bb0ff7be022d3e14.woff) format('woff');
 	font-weight: normal;
 	font-style: normal;
 	font-display: swap;

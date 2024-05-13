@@ -9,12 +9,10 @@
   --bs-navbar-toggler-icon-bg: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 44 10'%3e%3cpath fill='rgba(242, 242, 242)' d='M17.04,5c0-2.76,2.22-5,4.96-5s4.96,2.24,4.96,5-2.22,5-4.96,5-4.96-2.24-4.96-5ZM4.96,10c2.74,0,4.96-2.24,4.96-5S7.69,0,4.96,0,0,2.24,0,5s2.22,5,4.96,5ZM39.04,10c2.74,0,4.96-2.24,4.96-5S41.78,0,39.04,0s-4.96,2.24-4.96,5,2.22,5,4.96,5Z'/%3e%3c/svg%3e");
   --bs-navbar-toggler-border-radius: 50%;
   --bs-navbar-toggler-focus-width: 0;
-}
-
-.navbar-nav {
-  --bs-nav-link-color: #333333;
-  --bs-nav-link-hover-color: #f58220;
-  --bs-nav-link-disabled-color: #999999;
+  --bs-navbar-color: --bs-secondary-color;
+  --bs-navbar-hover-color: --bs-primary-color;
+  --bs-navbar-disabled-color: --bs-tertiary-color;
+  --bs-navbar-active-color: --bs-primary-color;
 }
 
 .btn-close {
